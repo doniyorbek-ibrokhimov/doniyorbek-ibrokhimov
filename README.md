@@ -30,10 +30,11 @@ Passionate and innovative software engineer specializing in iOS development and 
 
 ### iOS Applications
 
-#### [Project Name 1]
-📱 **iOS App** - Brief description of the app, its purpose, and key features.
-- Technologies: Swift, SwiftUI, CoreData, Firebase
-- [App Store Link](#) | [GitHub Repo](#)
+#### CAU Puls
+📱 **Medical App** - An advanced healthcare application that helps users easily and conveniently take care of their health. The app features AI-powered symptom checking, online consultations with certified doctors, and a comprehensive medical library with detailed descriptions of over 460 diseases.
+- Technologies: Swift, SwiftUI, CoreML, Firebase
+- ⭐ 5.0/5 Rating on App Store
+- [App Store Link](https://apps.apple.com/uz/app/cau-puls/id6502046095)
 
 #### [Project Name 2]
 📱 **iOS App** - Brief description of the app, its purpose, and key features.
