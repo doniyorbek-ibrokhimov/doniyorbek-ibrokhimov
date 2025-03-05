@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Passionate and innovative software engineer specializing in iOS development, backend systems, and AI/ML engineering. I thrive on building elegant solutions that combine beautiful user experiences with powerful, scalable architectures. My expertise spans the entire development lifecycle, from concept and design to deployment and maintenance.
+Passionate and innovative software engineer specializing in iOS development and AI/ML engineering. I thrive on building elegant solutions that combine beautiful user experiences with powerful, scalable architectures. My expertise spans the entire development lifecycle, from concept and design to deployment and maintenance.
 
 ## 💼 Skills
 
@@ -17,14 +17,6 @@ Passionate and innovative software engineer specializing in iOS development, bac
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![CoreML](https://img.shields.io/badge/CoreML-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### AI/ML Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,18 +39,6 @@ Passionate and innovative software engineer specializing in iOS development, bac
 📱 **iOS App** - Brief description of the app, its purpose, and key features.
 - Technologies: Swift, UIKit, Combine, ARKit
 - [App Store Link](#) | [GitHub Repo](#)
-
-### Backend Systems
-
-#### [Project Name 3]
-🖥️ **Backend Service** - Description of the backend service, its architecture, and capabilities.
-- Technologies: Node.js, Express, MongoDB, Docker
-- [GitHub Repo](#) | [Live Demo](#)
-
-#### [Project Name 4]
-🖥️ **API Platform** - Description of the API platform, its purpose, and key features.
-- Technologies: Node.js, PostgreSQL, AWS Lambda
-- [GitHub Repo](#) | [Documentation](#)
 
 ### AI/ML Projects
 
@@ -90,7 +70,6 @@ Passionate and innovative software engineer specializing in iOS development, bac
 
 - Advanced SwiftUI Animations and Transitions
 - Large Language Models and their Applications
-- Serverless Architecture with AWS Lambda
 - MLX Framework for Apple Silicon
 
 ## 📫 How to Reach Me
@@ -102,7 +81,6 @@ Passionate and innovative software engineer specializing in iOS development, bac
 ## 🤝 Open to
 
 - Collaboration on innovative iOS applications
-- Backend development projects
 - AI/ML research and implementation
 - Freelance opportunities
 - Mentoring and knowledge sharing
