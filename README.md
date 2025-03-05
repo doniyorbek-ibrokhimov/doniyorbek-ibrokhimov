@@ -47,13 +47,6 @@ Passionate and innovative software engineer specializing in iOS development. I t
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doniyorbek-ibrokhimov&layout=compact&theme=tokyonight" />
 </div>
 
-## 🌱 Currently Learning
-
-- Advanced SwiftUI Animations and Transitions
-- iOS Performance Optimization
-- Modern App Architecture Patterns
-- Modern Swift Concurrency
-
 ## 📫 How to Reach Me
 
 - 📧 Email: your.email@example.com
