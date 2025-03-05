@@ -43,6 +43,7 @@ Passionate and innovative software engineer specializing in iOS development. I t
 
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=doniyorbek-ibrokhimov&show_icons=true&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doniyorbek-ibrokhimov&layout=compact&theme=tokyonight" />
 </div>
 
