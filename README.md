@@ -11,6 +11,7 @@ Passionate and innovative software engineer specializing in iOS development and 
 ## 💼 Skills
 
 ### iOS Development
+
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=swift&logoColor=white)
@@ -19,6 +20,7 @@ Passionate and innovative software engineer specializing in iOS development and 
 ![CoreML](https://img.shields.io/badge/CoreML-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### AI/ML Engineering
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -31,25 +33,33 @@ Passionate and innovative software engineer specializing in iOS development and 
 ### iOS Applications
 
 #### CAU Puls
+
 📱 **Medical App** - An advanced healthcare application that helps users easily and conveniently take care of their health. The app features AI-powered symptom checking, online consultations with certified doctors, and a comprehensive medical library with detailed descriptions of over 460 diseases.
-- Technologies: Swift, SwiftUI, CoreML, Firebase
+
+- Technologies: Swift, SwiftUI, Firebase
 - ⭐ 5.0/5 Rating on App Store
 - [App Store Link](https://apps.apple.com/uz/app/cau-puls/id6502046095)
 
 #### [Project Name 2]
+
 📱 **iOS App** - Brief description of the app, its purpose, and key features.
+
 - Technologies: Swift, UIKit, Combine, ARKit
 - [App Store Link](#) | [GitHub Repo](#)
 
 ### AI/ML Projects
 
 #### [Project Name 5]
+
 🧠 **ML Model** - Description of the ML model, its purpose, and performance metrics.
+
 - Technologies: Python, TensorFlow, Scikit-learn
 - [GitHub Repo](#) | [Research Paper](#)
 
 #### [Project Name 6]
+
 🧠 **AI Application** - Description of the AI application, its features, and impact.
+
 - Technologies: PyTorch, MLX, CoreML
 - [GitHub Repo](#) | [Demo](#)
 
@@ -62,9 +72,11 @@ Passionate and innovative software engineer specializing in iOS development and 
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Title of your blog post 1](#)
 - [Title of your blog post 2](#)
 - [Title of your blog post 3](#)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Currently Learning
