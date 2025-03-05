@@ -47,12 +47,6 @@ Passionate and innovative software engineer specializing in iOS development. I t
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doniyorbek-ibrokhimov&layout=compact&theme=tokyonight" />
 </div>
 
-## 📫 How to Reach Me
-
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Doniyorbek Ibrokhimov](https://www.linkedin.com/in/doniyorbek-ibrokhimov/)
-- 🐦 Twitter: [@your_twitter](https://twitter.com/your_twitter)
-
 ## 🤝 Open to
 
 - Collaboration on innovative iOS applications
