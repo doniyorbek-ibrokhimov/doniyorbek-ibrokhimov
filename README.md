@@ -40,12 +40,13 @@ Passionate and innovative software engineer specializing in iOS development and 
 - ⭐ 5.0/5 Rating on App Store
 - [App Store Link](https://apps.apple.com/uz/app/cau-puls/id6502046095)
 
-#### [Project Name 2]
+#### EduPlus - CAU
 
-📱 **iOS App** - Brief description of the app, its purpose, and key features.
+📱 **Education App** - A dynamic academic lifestyle app designed for students at Central Asian University (CAU). The app combines powerful academic tools with gamification elements to create an engaging and efficient educational experience.
 
-- Technologies: Swift, UIKit, Combine, ARKit
-- [App Store Link](#) | [GitHub Repo](#)
+- Technologies: Swift, UIKit, SwiftUI
+- ⭐ 3.1/5 Rating on App Store
+- [App Store Link](https://apps.apple.com/uz/app/eduplus-cau/id6670467558)
 
 ### AI/ML Projects
 
