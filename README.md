@@ -58,7 +58,3 @@ Passionate and innovative software engineer specializing in iOS development. I t
 - Collaboration on innovative iOS applications
 - Freelance opportunities
 - Mentoring and knowledge sharing
-
----
-
-⭐️ From [doniyorbek-ibrokhimov](https://github.com/doniyorbek-ibrokhimov)
