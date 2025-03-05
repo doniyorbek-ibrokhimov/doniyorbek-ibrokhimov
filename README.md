@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Passionate and innovative software engineer specializing in iOS development and AI/ML engineering. I thrive on building elegant solutions that combine beautiful user experiences with powerful, scalable architectures. My expertise spans the entire development lifecycle, from concept and design to deployment and maintenance.
+Passionate and innovative software engineer specializing in iOS development. I thrive on building elegant solutions that combine beautiful user experiences with powerful, scalable architectures. My expertise spans the entire development lifecycle, from concept and design to deployment and maintenance.
 
 ## 💼 Skills
 
@@ -18,15 +18,6 @@ Passionate and innovative software engineer specializing in iOS development and 
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![CoreML](https://img.shields.io/badge/CoreML-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-### AI/ML Engineering
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![MLX](https://img.shields.io/badge/MLX-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 🔥 Featured Projects
 
@@ -48,22 +39,6 @@ Passionate and innovative software engineer specializing in iOS development and 
 - ⭐ 3.1/5 Rating on App Store
 - [App Store Link](https://apps.apple.com/uz/app/eduplus-cau/id6670467558)
 
-### AI/ML Projects
-
-#### [Project Name 5]
-
-🧠 **ML Model** - Description of the ML model, its purpose, and performance metrics.
-
-- Technologies: Python, TensorFlow, Scikit-learn
-- [GitHub Repo](#) | [Research Paper](#)
-
-#### [Project Name 6]
-
-🧠 **AI Application** - Description of the AI application, its features, and impact.
-
-- Technologies: PyTorch, MLX, CoreML
-- [GitHub Repo](#) | [Demo](#)
-
 ## 📈 GitHub Stats
 
 ![Doniyorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=doniyorbek-ibrokhimov&show_icons=true&theme=tokyonight)
@@ -83,8 +58,8 @@ Passionate and innovative software engineer specializing in iOS development and 
 ## 🌱 Currently Learning
 
 - Advanced SwiftUI Animations and Transitions
-- Large Language Models and their Applications
-- MLX Framework for Apple Silicon
+- iOS Performance Optimization
+- Modern App Architecture Patterns
 
 ## 📫 How to Reach Me
 
@@ -95,7 +70,6 @@ Passionate and innovative software engineer specializing in iOS development and 
 ## 🤝 Open to
 
 - Collaboration on innovative iOS applications
-- AI/ML research and implementation
 - Freelance opportunities
 - Mentoring and knowledge sharing
 
